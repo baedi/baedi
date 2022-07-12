@@ -19,7 +19,7 @@
 ![React](https://img.shields.io/badge/React-61DAFB.svg?&style=for-the-badge&logo=React&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000.svg?&style=for-the-badge&logo=Oracle&logoColor=white)
 ![Microsoft SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927.svg?&style=for-the-badge&logo=MicrosoftSQLServer&logoColor=white)
-
+![RPA](https://img.shields.io/badge/RPA-007FFF.svg?&style=for-the-badge&logo=RPA&logoColor=white)
 
 #### Development Tools
 ![Git](https://img.shields.io/badge/Git-F05032.svg?&style=for-the-badge&logo=Git&logoColor=white)
