@@ -16,9 +16,11 @@ Now I'm studying <strong>Spring Boot</strong>, <strong>JPA</strong> and <strong>
 <br>
 ### 📚 Studying
 ![SpringBoot](https://img.shields.io/badge/springboot-6DB33F.svg?&style=for-the-badge&logo=springboot&logoColor=white)
+![Thymeleaf](https://img.shields.io/badge/thymeleaf-005F0F.svg?&style=for-the-badge&logo=thymeleaf&logoColor=white)
 ![JPA](https://img.shields.io/badge/jpa-EC1C24.svg?&style=for-the-badge&logo=jpa&logoColor=white)
 ![Vue.JS](https://img.shields.io/badge/vue.js-4FC08D.svg?&style=for-the-badge&logo=vuedotjs&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/postgresql-4169E1.svg?&style=for-the-badge&logo=postgresql&logoColor=white)
+
   
 ![English](https://img.shields.io/badge/english-3167FF.svg?&style=for-the-badge&logo=english&logoColor=white)
 ![Japanese](https://img.shields.io/badge/japanese-ED4242.svg?&style=for-the-badge&logo=japanese&logoColor=white)
