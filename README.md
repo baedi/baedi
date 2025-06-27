@@ -1,9 +1,14 @@
 # baedi's Profile
 ### ℹ️ Info
-I am a 💻<strong>Backend Developer</strong> of ERP for 5 years.  
-Now I'm studying <strong>Spring Boot</strong>, <strong>JPA</strong> and <strong>language</strong>.
+I am a <strong>Backend Developer of ERP</strong>💻 for 5 years.  
+Now I'm studying `Spring Boot`, `JPA` and `ENG/日本語` language.
 <br>
 <br>
+
+### 🎯 Goals
+ - I am planning to design and develop a similar `redmine` project using `Spring Boot` and `JPA`.
+<br>
+
 ### 💡 Tech Stack
 ![Java](https://img.shields.io/badge/Java-d40000.svg?&style=for-the-badge&logo=Java&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?&style=for-the-badge&logo=HTML5&logoColor=white)
