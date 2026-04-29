@@ -21,7 +21,7 @@ Now I am studying both Front, Backend develop using Spring Boot & Vue.js and I a
 &nbsp;
 
 ### 📫 Contact  
-[![Email](https://img.shields.io/badge/email-dlbae9613@gmail.com-red)](http://dlbae9613@gmail.com/)
+[![Email](https://img.shields.io/badge/email-dlbae9613@gmail.com-red)](mailto:dlbae9613@gmail.com/)
 [![My Blog](https://img.shields.io/badge/blog-baedi.github.io-blueviolet)](https://baedi.github.io)
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=dlbae9613)](https://solved.ac/dlbae9613)
 
